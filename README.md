@@ -1,5 +1,6 @@
 # Reduce-Noise-in-LiDAR-sensor
 [![build status of master](https://travis-ci.org/Svaity/Reduce-Noise-in-LiDAR-sensor.svg?branch=master)](https://travis-ci.org/Svaity/Reduce-Noise-in-LiDAR-sensor)
+[![BCH compliance](https://bettercodehub.com/edge/badge/Svaity/Reduce-Noise-in-LiDAR-sensor?branch=master)](https://bettercodehub.com/)
 
 You have been assigned to write filters to reduce noise in the data coming from a LIDAR sensor attached
 to your robot. The LIDAR generates scans at a certain rate. Each scan is an array of length N of lloat
